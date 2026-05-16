@@ -1,8 +1,8 @@
 # C Programming Activity
 
-Name: YOUR NAME
-USN: YOUR USN
-Semester/Section: ________
+Name: Pratham Ekbote N
+USN: 1JS25CI062
+Semester/Section: __2ND SEM___C2___
 Program Title: Simple Addition of Two Numbers
 
 ## Aim
